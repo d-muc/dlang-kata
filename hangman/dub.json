@@ -1,0 +1,9 @@
+{
+	"name": "hangman",
+	"authors": [
+		"Johannes Loher"
+	],
+	"description": "Hangman kata",
+	"copyright": "Copyright © 2018, MaibornWolff GmbH",
+	"license": "proprietary"
+}

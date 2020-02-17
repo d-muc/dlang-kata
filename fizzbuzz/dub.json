@@ -1,0 +1,9 @@
+{
+	"name": "fizzbuzz",
+	"authors": [
+		"Johannes Loher"
+	],
+	"description": "FizzBuzz kata",
+	"copyright": "Copyright © 2018, MaibornWolff GmbH",
+	"license": "proprietary"
+}

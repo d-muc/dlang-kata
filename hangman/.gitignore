@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+hangman.so
+hangman.dylib
+hangman.dll
+hangman.a
+hangman.lib
+hangman-test-*
+hangman
+*.exe
+*.o
+*.obj
+*.lst

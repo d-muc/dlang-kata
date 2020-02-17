@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+fibonacci.so
+fibonacci.dylib
+fibonacci.dll
+fibonacci.a
+fibonacci.lib
+fibonacci-test-*
+fibonacci
+*.exe
+*.o
+*.obj
+*.lst

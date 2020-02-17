@@ -1,0 +1,9 @@
+{
+	"name": "fibonacci",
+	"authors": [
+		"Johannes Loher"
+	],
+	"description": "Fibonacci kata",
+	"copyright": "Copyright © 2018, MaibornWolff GmbH",
+	"license": "proprietary"
+}
